@@ -5,7 +5,7 @@ A collection of classes used for 2d game programming in Java. Much of the dirty 
 ## Installation
 
 1. install the java JDK7.
-2. clone this repo.
+2. clone this repo.ssxsx
 3. run make.bat if on windows, make.sh if on linux, or compile it with netbeans.
 4. add the .jar file created to your project.
 
